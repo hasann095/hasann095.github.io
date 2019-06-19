@@ -302,13 +302,13 @@ a:hover, a:active, a:focus {
      align-items: center;
     position: relative;
     text-align: center;
-    padding-top: 60px;
-    padding-bottom: 40px;
+    padding-top: 40px;
+    padding-bottom: 0px;
 }
 
 #home hr {
   width: 82px;
-  margin-top: 40px;
+  margin-top: 20px;
 }
 
 
@@ -397,7 +397,7 @@ a:hover, a:active, a:focus {
 }
 
 #portfolio .text-center {
-  padding-top: 62px;
+  padding-top: 0px;
 }
 
 
@@ -708,6 +708,10 @@ footer .footer-copyright {
 
 
 @media (max-width: 767px) {
+
+	#home{
+		padding-top: 0px;
+	}
 
   h1 {
     font-size: 38px;
