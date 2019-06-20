@@ -97,6 +97,10 @@ strong {
 h5{
 	font-weight: 500;
 }
+
+.emailme{
+	margin-top: 100px;
+}
 /*---------------------------------------
     General
 -----------------------------------------*/
@@ -220,7 +224,7 @@ a:hover, a:active, a:focus {
     background: #ffffff;
     padding: 18px 0;
     border: none;
-    margin-top: 62px;
+    margin-top: 0px;
 }
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
@@ -747,10 +751,15 @@ footer .footer-copyright {
 
   footer {
     text-align: center;
+		padding-top: 25px;
   }
 
   footer .col-md-4 {
     padding-top: 42px;
   }
+
+	#portfolio{
+		padding-bottom: 80px;
+	}
 
 }
