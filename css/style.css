@@ -101,6 +101,12 @@ h5{
 .emailme{
 	margin-top: 100px;
 }
+
+.testimonial{
+  font-size: 0.9em;
+  line-height: 1.2em;
+  color: gray;
+}
 /*---------------------------------------
     General
 -----------------------------------------*/
